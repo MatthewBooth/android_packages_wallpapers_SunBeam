@@ -1,4 +1,4 @@
-package com.android.phasebeam;
+package com.android.phasebeamorange;
 
 import android.app.Service;
 import android.graphics.PixelFormat;
